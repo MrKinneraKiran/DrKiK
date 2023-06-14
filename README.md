@@ -3,7 +3,7 @@
 <body>
 
 <h2>HTML Image</h2>
-<img src="https://lh6.googleusercontent.com/912NazC54om-dq33ZEclKS--3Fz9dAYeTxWB4Pv-OggVsLPciVBlElKAU8kRSPNLTpJSIixPLkccvrI2PtdDjkJ9n-p5Pfzj_SVZZgg6x9RNKyGDKjSheySVdh1vWB3Hbg=w1280" alt="Kiran K" width="500" height="600"><h2>HTML Image</h2>
+<img src="https://lh6.googleusercontent.com/912NazC54om-dq33ZEclKS--3Fz9dAYeTxWB4Pv-OggVsLPciVBlElKAU8kRSPNLTpJSIixPLkccvrI2PtdDjkJ9n-p5Pfzj_SVZZgg6x9RNKyGDKjSheySVdh1vWB3Hbg=w1280" alt="Kiran K" width="250" height="300"><h2>HTML Image</h2>
 <!-- Paragraph test --> 
 <h2> Awards & Honors </h2>
 <ul>
