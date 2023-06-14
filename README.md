@@ -4,7 +4,7 @@
 
 <h2>HTML Image</h2>
 <img src="[img_girl.jpg](https://lh6.googleusercontent.com/912NazC54om-dq33ZEclKS--3Fz9dAYeTxWB4Pv-OggVsLPciVBlElKAU8kRSPNLTpJSIixPLkccvrI2PtdDjkJ9n-p5Pfzj_SVZZgg6x9RNKyGDKjSheySVdh1vWB3Hbg=w1280)" alt="Girl in a jacket" width="500" height="600"><h2>HTML Image</h2>
-<-- Paragraph test --> 
+<!-- Paragraph test --> 
 <h1>My First Heading</h1>
 <ul>
 <li>CSIR - IICT " R & D Services Award "  for significant contributions in the area of Process Automation .
