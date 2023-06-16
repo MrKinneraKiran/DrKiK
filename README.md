@@ -2,7 +2,7 @@
 <html>
 <body>
 <style> 
-   background-image: url('[url](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)')|none|initial|inherit;
+   background-image: url('https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)](https://cdn.dribbble.com/users/527762/screenshots/4208832/______-___-________.gif')|none|initial|inherit;
 </style>
 
 
